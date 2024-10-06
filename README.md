@@ -29,6 +29,8 @@ A curated list of censorship circumvention tools
 - [wg-easy](https://github.com/wg-easy/wg-easy) The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
 - [libertea](https://github.com/VZiChoushaDui/Libertea) Easily install and manage a multi-protocol VPN server; with user management, auto fallback and auto update. uses Xray as backend.
+- [3x-ui](https://github.com/MHSanaei/3x-ui) An Advanced Web Panel • Built on Xray Core.
+- [s-ui](https://github.com/alireza0/s-ui) An Advanced Web Panel • Built on SagerNet/Sing-Box.
 
 ## GUI Clients
 
