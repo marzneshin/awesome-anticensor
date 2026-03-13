@@ -14,6 +14,7 @@ A curated list of censorship circumvention tools
 
 ## Cores
 
+- [amneziawg-installer](https://github.com/bivlked/amneziawg-installer) One-command AmneziaWG 2.0 (obfuscated WireGuard) installer and manager for Ubuntu & Debian.
 - [dae](https://github.com/daeuniverse/dae) eBPF-based Linux high-performance transparent proxy solution.
 - [Hysteria](https://github.com/apernet/hysteria) A powerful, lightning fast and censorship resistant proxy.
 - [Mihomo](https://github.com/MetaCubeX/mihomo) a clash based framework.
