@@ -69,3 +69,4 @@ A curated list of censorship circumvention tools
 ## Resources
 - [gfw.report](https://gfw.report)
 - [net4people/bbs](https://github.com/net4people/bbs)
+- [Voidly](https://voidly.ai) Censorship research network with 19.6M OONI measurements across 126 countries, 5,356 citable incidents, public API, CC BY 4.0 datasets, 37+ global probes.
