@@ -48,11 +48,13 @@ A curated list of censorship circumvention tools
 - [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) Closed source.
 - [Streisand](https://apps.apple.com/us/app/streisand/id6450534064) Closed source.
 - [sing-box VT](https://apps.apple.com/us/app/sing-box-vt/id6673731168)
+- [Caspian-BYOC](https://github.com/Iman/caspian) Turns the machine into a WiFi hotspot that routes every joined device through Xray (VLESS/REALITY, VMess, Trojan, Shadowsocks, SOCKS, Hysteria2). No client app on the phones. Persian and English panel.
 
 ### Linux
 - [Furious](https://github.com/LorenEteval/Furious/) A GUI proxy client based on PySide6. Support Xray-core & hysteria.
 - [FlClash](https://github.com/chen08209/FlClash) A multi-platform proxy client based on ClashMeta.
 - [Nekory](https://github.com/MatsuriDayo/nekoray) A cross-platform GUI client, supports xray and sing-box as backend.
+- [Caspian-BYOC](https://github.com/Iman/caspian) Turns the machine into a WiFi hotspot that routes every joined device through Xray (VLESS/REALITY, VMess, Trojan, Shadowsocks, SOCKS, Hysteria2). No client app on the phones. Persian and English panel.
 
 ### MacOS
 - [Furious](https://github.com/LorenEteval/Furious/) A GUI proxy client based on PySide6. Support Xray-core & hysteria.
@@ -64,6 +66,7 @@ A curated list of censorship circumvention tools
 - [Furious](https://github.com/LorenEteval/Furious/) A GUI proxy client based on PySide6. Support Xray-core & hysteria.
 - [FlClash](https://github.com/chen08209/FlClash) A multi-platform proxy client based on ClashMeta.
 - [Nekory](https://github.com/MatsuriDayo/nekoray) A cross-platform GUI client, supports xray and sing-box as backend.
+- [Caspian-BYOC](https://github.com/Iman/caspian) Turns the machine into a WiFi hotspot that routes every joined device through Xray (VLESS/REALITY, VMess, Trojan, Shadowsocks, SOCKS, Hysteria2). No client app on the phones. Persian and English panel.
 - [v2rayN](https://github.com/2dust/v2rayN) A GUI client for Windows, supports [Xray core](https://github.com/XTLS/Xray-core), [v2fly core](https://github.com/v2fly/v2ray-core) and [others](https://github.com/2dust/v2rayN/wiki/List-of-supported-cores)
 
 ## Resources
