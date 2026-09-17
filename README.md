@@ -31,6 +31,7 @@ A curated list of censorship circumvention tools
 - [libertea](https://github.com/VZiChoushaDui/Libertea) Easily install and manage a multi-protocol VPN server; with user management, auto fallback and auto update. uses Xray as backend.
 - [3x-ui](https://github.com/MHSanaei/3x-ui) An Advanced Web Panel • Built on Xray Core.
 - [s-ui](https://github.com/alireza0/s-ui) An Advanced Web Panel • Built on SagerNet/Sing-Box.
+- [GerehGosha](https://github.com/amirmarandidev/GerehGosha) - A tool to route traffic through Tor by country and automatically inject inbounds into PasarGuard, Marzban & 3x-ui.
 
 ## GUI Clients
 
