@@ -16,6 +16,7 @@ A curated list of censorship circumvention tools
 
 - [dae](https://github.com/daeuniverse/dae) eBPF-based Linux high-performance transparent proxy solution.
 - [Hysteria](https://github.com/apernet/hysteria) A powerful, lightning fast and censorship resistant proxy.
+- [loft](https://github.com/a3app/loft) Open protocol loft/1.0 and reference Go node: HTTPS-shaped overlay (GET, WebSocket, HTTP/2, QUIC, HTTP/3).
 - [Mihomo](https://github.com/MetaCubeX/mihomo) a clash based framework.
 - [OpenVPN](https://github.com/OpenVPN/openvpn) An open source VPN daemon
 - [sing-box](https://github.com/SagerNet/sing-box) The universal proxy platform.
