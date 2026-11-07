@@ -42,6 +42,7 @@ A curated list of censorship circumvention tools
 - [saeeddev94/xray](https://github.com/SaeedDev94/Xray)
 - [husi](https://github.com/xchacha20-poly1305/husi)
 - [karing](https://github.com/KaringX/karing) Simple & Powerful proxy utility, Support routing rules for clash/sing-box.
+- [Blackout Kit](https://github.com/kiacoder/blackout-kit-mobile) Open-source Android VPN client for censorship circumvention; imports subscription links, config files, and QR codes.
 
 ### IOS
 - [karing](https://github.com/KaringX/karing) Simple & Powerful proxy utility, Support routing rules for clash/sing-box.
