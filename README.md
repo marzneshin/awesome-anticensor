@@ -43,6 +43,8 @@ A curated list of censorship circumvention tools
 - [husi](https://github.com/xchacha20-poly1305/husi)
 - [karing](https://github.com/KaringX/karing) Simple & Powerful proxy utility, Support routing rules for clash/sing-box.
 
+- [Aureon R (Android)](https://github.com/Aureon-R/aureon-r-client) - Free, closed-source proxy client using sing-box and Xray, with user-provided nodes and one-click Debian VPS deployment.
+
 ### IOS
 - [karing](https://github.com/KaringX/karing) Simple & Powerful proxy utility, Support routing rules for clash/sing-box.
 - [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) Closed source.
@@ -65,6 +67,8 @@ A curated list of censorship circumvention tools
 - [FlClash](https://github.com/chen08209/FlClash) A multi-platform proxy client based on ClashMeta.
 - [Nekory](https://github.com/MatsuriDayo/nekoray) A cross-platform GUI client, supports xray and sing-box as backend.
 - [v2rayN](https://github.com/2dust/v2rayN) A GUI client for Windows, supports [Xray core](https://github.com/XTLS/Xray-core), [v2fly core](https://github.com/v2fly/v2ray-core) and [others](https://github.com/2dust/v2rayN/wiki/List-of-supported-cores)
+
+- [Aureon R (Windows)](https://github.com/Aureon-R/aureon-r-windows) - Free, closed-source proxy client using sing-box and Xray, with user-provided nodes and one-click Debian VPS deployment.
 
 ## Resources
 - [gfw.report](https://gfw.report)
