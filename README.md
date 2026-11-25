@@ -42,6 +42,7 @@ A curated list of censorship circumvention tools
 - [saeeddev94/xray](https://github.com/SaeedDev94/Xray)
 - [husi](https://github.com/xchacha20-poly1305/husi)
 - [karing](https://github.com/KaringX/karing) Simple & Powerful proxy utility, Support routing rules for clash/sing-box.
+- [HotaruNet](https://github.com/OneForAllHub/HotaruNet) Zero-config Android & Windows anti-censorship client with real throughput probing and auto-failover (VLESS REALITY, WARP, Hysteria 2, XHTTP).
 
 ### IOS
 - [karing](https://github.com/KaringX/karing) Simple & Powerful proxy utility, Support routing rules for clash/sing-box.
